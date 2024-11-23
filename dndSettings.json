@@ -1,0 +1,16 @@
+{
+    "name": "Main Character",
+    "fields": [
+        { "label": "Name", "type": "text", "id": "char-name" },
+        { "label": "Class", "type": "text", "id": "char-class" },
+        { "label": "Level", "type": "number", "id": "char-level" },
+        { "label": "HP", "type": "number", "id": "char-hp" },
+        { "label": "MP", "type": "number", "id": "char-mp" },
+        { "label": "Strength", "type": "number", "id": "char-str" },
+        { "label": "Dexterity", "type": "number", "id": "char-dex" },
+        { "label": "Constitution", "type": "number", "id": "char-con" },
+        { "label": "Intelligence", "type": "number", "id": "char-int" },
+        { "label": "Wisdom", "type": "number", "id": "char-wis" },
+        { "label": "Charisma", "type": "number", "id": "char-cha" }
+    ]
+}
